@@ -13,7 +13,7 @@ If fraud is suspected, the system **alerts bank staff** for further review.
 
 ## How It Works
 
-1. **Data Input** – Transactions are uploaded or entered manually.  
+1. **Data Input** – Transactions are entered manually.  
 2. **Model Training** – The AI learns normal vs. fraudulent behavior.  
 3. **Prediction** – Each new transaction is analyzed instantly.  
 4. **Alert System** – Suspicious activity triggers an alert before approval.
