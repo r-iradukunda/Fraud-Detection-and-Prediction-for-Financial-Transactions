@@ -84,5 +84,6 @@ $ jupyter notebook Fraud_detection.ipynb
 
 ## Author
 Iradukunda Ruth
-video: https://youtu.be/mtbEstP2xGE
+video: https://www.youtube.com/watch?v=mtbEstP2xGE
+
 
